@@ -50,24 +50,7 @@
 
   Sistema para cálculo de raízes de qualquer ordem e base, com foco em validação de dados, modularização e implementação matemática sem bibliotecas externas.
 
-➡️ [Veja mais nos meus repositórios do GitHub](https://github.com/VitorAntonio-GN)
-
----
-
-## 📊 Estatísticas
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api?username=VitorAntonio-GN&show_icons=true&theme=dark" alt="GitHub Stats" />
-      </td>
-      <td width="50%">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorAntonio-GN&layout=compact&theme=dark" alt="Top Linguagens" />
-      </td>
-    </tr>
-  </table>
-</div>
+➡️ [Veja mais nos meus repositórios do GitHub](https://github.com/VitorAntonio-GN?tab=repositories)
 
 ---
 
